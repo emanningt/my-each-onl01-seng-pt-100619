@@ -1,4 +1,5 @@
-def my_each(words) # put argument(s) here
+def my_each(array) # put argument(s) here
+  c = 
   while words 
   yield 
     end
