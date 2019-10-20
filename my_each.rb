@@ -1,6 +1,7 @@
 def my_each(array) # put argument(s) here
-  c = 
-  while words 
+  c = 0
+  
+  while 
   yield 
     end
   # code here
